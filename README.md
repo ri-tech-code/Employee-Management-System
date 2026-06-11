@@ -1,4 +1,4 @@
-# Employee-Management-Sytem
+# Employee-Management-Sytsem
 ## Project Description
 A MySQL database project for managing employee and department records.
 
